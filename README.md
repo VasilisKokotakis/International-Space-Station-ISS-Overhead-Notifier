@@ -1,6 +1,6 @@
 ---
 
-# 🚀 ISS Overhead Notifier
+# ISS Overhead Notifier
 
 Ever wanted to *casually* look up at the night sky and say,
 “Hey, that bright dot is literally a \$150 billion science lab orbiting Earth at 28,000 km/h”?
@@ -10,7 +10,7 @@ This little Python script will send you an email whenever the **International Sp
 
 ---
 
-## 🌌 How it works
+## How it works
 
 1. **Tracks the ISS** using a public API that tells us where it is right now.
 2. **Checks if it’s night** at your location (because space spotting in daylight is just cloud-spotting).
@@ -18,7 +18,7 @@ This little Python script will send you an email whenever the **International Sp
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 * Python 3
 * `requests` (for talking to the ISS and the Sun)
@@ -27,7 +27,7 @@ This little Python script will send you an email whenever the **International Sp
 
 ---
 
-## 🧑‍🚀 Setup
+## Setup
 
 1. Clone this repo.
 2. Open the script and put your latitude/longitude.
@@ -41,8 +41,14 @@ The ISS is above you in the sky.
 
 ---
 
-## 📡 Why?
+## Why?
 
 Because looking at the ISS makes you feel small, humble, and slightly jealous of astronauts.
+
+---
+
+##  License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
